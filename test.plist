@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>happyholi_button01_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{272,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{272,84}</string>
+			</dict>
+			<key>happyholi_button01_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{275,1},{272,74}}</string>
+				<key>offset</key>
+				<string>{0,-5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{272,84}</string>
+			</dict>
+			<key>happyholi_button01_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,87},{272,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{272,84}</string>
+			</dict>
+			<key>happyholi_button02_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{549,1},{231,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{231,84}</string>
+			</dict>
+			<key>happyholi_button02_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{635,1},{231,73}}</string>
+				<key>offset</key>
+				<string>{0,-5}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{231,84}</string>
+			</dict>
+			<key>happyholi_button02_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{275,77},{231,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{231,84}</string>
+			</dict>
+			<key>happyholi_buttonboxoff_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{275,163},{83,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{83,64}</string>
+			</dict>
+			<key>happyholi_buttonboxoff_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,163},{83,62}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{83,64}</string>
+			</dict>
+			<key>happyholi_buttonboxon_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{710,90},{89,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{89,84}</string>
+			</dict>
+			<key>happyholi_buttonboxon_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{796,90},{89,82}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{89,84}</string>
+			</dict>
+			<key>happyholi_ingame_taskicon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{710,1},{103,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{103,87}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>test.png</string>
+			<key>realTextureFileName</key>
+			<string>test.png</string>
+			<key>size</key>
+			<string>{879,233}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>879</integer>
+			<key>height</key>
+			<integer>233</integer>
+		</dict>
+	</dict>
+</plist>
